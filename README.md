@@ -27,3 +27,5 @@ Terminal-> Run Task... -> tsc: watch -tsconfig.json
 - [@types package search page](https://microsoft.github.io/TypeSearch/)
 - [Typescript教程_Typescript视频教程 ts入门实战视频教程-2019年5月更新](https://www.bilibili.com/video/av38379328?p=20)
 - [In Typescript, what is the difference between type and interface?](https://stackoverflow.com/questions/36782896/in-typescript-what-is-the-difference-between-type-and-interface)
+- [Conditional Types in TypeScript](https://mariusschulz.com/blog/conditional-types-in-typescript)
+- [typescript进阶篇之高级类型与条件类型(Readonly, Partial, Pick, Record)](https://www.cnblogs.com/Grewer/p/10973744.html)
