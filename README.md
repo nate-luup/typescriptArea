@@ -16,7 +16,7 @@ tsc --init
 2. Vscode auto complie
 
 `
-Terminal-> Run Task... -> tsc: watch -tsconfig.json 
+Terminal-> Run Task... -> tsc: watch -tsconfig.json
 `
 
 <h2 id="References">References</h2>
@@ -26,3 +26,4 @@ Terminal-> Run Task... -> tsc: watch -tsconfig.json
 - [声明文件库](http://definitelytyped.org/)
 - [@types package search page](https://microsoft.github.io/TypeSearch/)
 - [Typescript教程_Typescript视频教程 ts入门实战视频教程-2019年5月更新](https://www.bilibili.com/video/av38379328?p=20)
+- [In Typescript, what is the difference between type and interface?](https://stackoverflow.com/questions/36782896/in-typescript-what-is-the-difference-between-type-and-interface)
