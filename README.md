@@ -29,3 +29,4 @@ Terminal-> Run Task... -> tsc: watch -tsconfig.json
 - [In Typescript, what is the difference between type and interface?](https://stackoverflow.com/questions/36782896/in-typescript-what-is-the-difference-between-type-and-interface)
 - [Conditional Types in TypeScript](https://mariusschulz.com/blog/conditional-types-in-typescript)
 - [typescript进阶篇之高级类型与条件类型(Readonly, Partial, Pick, Record)](https://www.cnblogs.com/Grewer/p/10973744.html)
+- [What does the `is` keyword do in typescript?](https://stackoverflow.com/questions/40081332/what-does-the-is-keyword-do-in-typescript)
