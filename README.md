@@ -30,3 +30,4 @@ Terminal-> Run Task... -> tsc: watch -tsconfig.json
 - [Conditional Types in TypeScript](https://mariusschulz.com/blog/conditional-types-in-typescript)
 - [typescript进阶篇之高级类型与条件类型(Readonly, Partial, Pick, Record)](https://www.cnblogs.com/Grewer/p/10973744.html)
 - [What does the `is` keyword do in typescript?](https://stackoverflow.com/questions/40081332/what-does-the-is-keyword-do-in-typescript)
+- [typescript 高级技巧](https://segmentfault.com/a/1190000019449565?utm_source=tag-newest)
