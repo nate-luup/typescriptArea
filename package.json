@@ -1,10 +1,12 @@
 {
   "name": "typescriptArea",
   "version": "1.0.0",
-  "description": "TypeScript 的设计目标之一是让你从现有的 JavaScript 库中安全、轻松的使用 TypeScript，你可以通过 TypeScript 声明文件来做到这一点。 ## 目录 - [Tutorials](#Tutorials) - [Handbook](#Handbook) - [Declaration Files](#Declaration-Files) - [Project Configuration](#Project-Configuration) - [References](#References)",
-  "main": "index.js",
+  "description": "TypeScript 是一种由微软开发的自由和开源的编程语言，它是JavaScript的一个超集，扩展了JavaScript的语法。TypeScript 通过类型注解提供编译时的静态类型检查，可处理已有的 JavaScript 代码，并只对其中的 TypeScript 代码进行编译，另外TypeScript可以在任何浏览器、任何计算机和任何操作系统上运行",
+  "main": "index.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "cross-env NODE_ENV=development webpack-dev-server --config ./build/webpack.config.js",
+    "build": "cross-env NODE_ENV=production webpack --config ./build/webpack.config.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +20,14 @@
   },
   "homepage": "https://github.com/nate-luup/typescriptArea#readme",
   "devDependencies": {
-    "typescript": "^3.7.5"
+    "clean-webpack-plugin": "^3.0.0",
+    "cross-env": "^7.0.2",
+    "html-webpack-plugin": "^4.3.0",
+    "ts-loader": "^7.0.5",
+    "tslint": "^6.1.2",
+    "typescript": "^3.9.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
   }
 }
