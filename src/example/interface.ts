@@ -89,18 +89,18 @@ let carrot: Carror = {
   color: "orange",
 };
 // 9. 混合类型接口
-interface Counter {
+interface Counter1 {
   (): void;
   count: number;
 }
-const getCounter = (): Counter => {
+const getCounter = (): Counter1 => {
   const c = () => {
     c.count++;
   };
   c.count = 0;
   return c;
 };
-const counter: Counter = getCounter();
+const counter: Counter1 = getCounter();
 counter();
 console.log(counter.count);
 counter();
