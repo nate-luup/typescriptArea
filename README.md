@@ -15,6 +15,7 @@ TypeScript 是一种由微软开发的自由和开源的编程语言，它是Jav
 - [高级类型(1)](doc/12.md)
 - [高级类型(2)](doc/13.md)
 - [ES6和Nodejs中的模块](doc/14.md)
+- [模块和命名空间](doc/15.md)
 
 ## References
 - [Typescript](http://www.typescriptlang.org/)
