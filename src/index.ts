@@ -11,4 +11,5 @@
 // import "./example/advance-type1"
 // import "./example/advance-type2"
 // import "./modules/index";
-import "./ts-modules/index"
+// import "./ts-modules/index"
+import "./example/merging"

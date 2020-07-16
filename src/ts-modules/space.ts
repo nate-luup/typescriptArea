@@ -10,7 +10,7 @@
 // 命名空间的定义： 相当于定义了一个大的对象，里面可以定义变量，接口，类，方法等等，
 // 但是不使用export关键字指定哪些内容对外访问的话，外部是访问不到的
 
-namespace Validation {
+/* namespace Validation {
   const isLetterReg = /^[a-zA-Z]+$/;
   export const isNumberReg = /^[0-9]+$/;
   export const checkLetter = (text: any) => {
@@ -27,3 +27,4 @@ namespace Shapes {
 
 import polygons = Shapes.Polygons;
 let triangle = new polygons.Triangle();
+ */
