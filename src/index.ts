@@ -12,4 +12,5 @@
 // import "./example/advance-type2"
 // import "./modules/index";
 // import "./ts-modules/index"
-import "./example/merging"
+// import "./example/merging"
+import "./example/decorator"
