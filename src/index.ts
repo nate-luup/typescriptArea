@@ -15,4 +15,5 @@
 // import "./example/merging"
 // import "./example/decorator"
 // import "./example/mixin"
-import "./example/update"
+// import "./example/update"
+import "./example/declaration-files"
