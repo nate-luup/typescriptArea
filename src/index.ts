@@ -14,4 +14,5 @@
 // import "./ts-modules/index"
 // import "./example/merging"
 // import "./example/decorator"
-import "./example/mixin"
+// import "./example/mixin"
+import "./example/update"
