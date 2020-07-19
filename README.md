@@ -23,6 +23,7 @@ TypeScript 是一种由微软开发的自由和开源的编程语言，它是Jav
 - [声明文件](doc/20.md)
 - [tsconfig.json 配置详解](doc/21.md)
 - [实战-封装并发布一个npm包](doc/22.md)
+- [实战-为第三方库写声明文件](doc/23.md)
 
 ## References
 - [Typescript](http://www.typescriptlang.org/)
