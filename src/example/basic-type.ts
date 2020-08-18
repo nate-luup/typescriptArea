@@ -5,7 +5,8 @@ bool = true;
 // bool = 123;
 
 // 2. 数值类型
-let num: number = 1;
+let num: number;
+num = 1;
 // num ='abc';
 num = 0b1111011;
 num = 0o123;
@@ -52,7 +53,7 @@ let value: any;
 value = 1;
 value = true;
 value = "a";
-const arr4: any = [1, "a", false];
+value = [1, "a", false];
 
 // 8. void类型 什么类型都不是
 const consoleText = (text): void => {
