@@ -16,7 +16,6 @@ node_modules
 /temp
 
 # production
-/build
 
 # misc
 .DS_Store
@@ -38,4 +37,3 @@ storybook-static
 __coverage__
 
 *.m.scss.d.ts
-
