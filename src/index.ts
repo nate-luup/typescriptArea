@@ -14,8 +14,8 @@
 // import "./ts-modules/index"
 // import "./example/merging"
 // import "./example/decorator"
-import "./example/decorator-validator"
+// import "./example/decorator-validator"
 // import "./example/mixin"
 // import "./example/update"
-// import "./example/declaration-files"
+import './example/declaration-files'
 // import "./example/23-project-declaration"
