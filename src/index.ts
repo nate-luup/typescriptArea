@@ -17,5 +17,8 @@
 // import "./example/decorator-validator"
 // import "./example/mixin"
 // import "./example/update"
-import './example/declaration-files'
+// import './example/declaration-files'
 // import "./example/23-project-declaration"
+
+import sayHello from "@api/index";
+console.log(sayHello("nate"));
