@@ -20,7 +20,7 @@
     "esModuleInterop": true,
     "experimentalDecorators": true,
     "skipLibCheck": true,
-    "forceConsistentCasingInFileNames": true
-  },
-  "include": ["./src/**/*.ts", "./src/**/*.tsx", "./src/**/*.d.ts"]
+    "forceConsistentCasingInFileNames": true,
+    "strict": true
+  }
 }
