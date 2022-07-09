@@ -20,5 +20,5 @@
 // import './example/declaration-files'
 // import "./example/23-project-declaration"
 
-import sayHello from "@api/index";
-console.log(sayHello("nate"));
+import sayHello from './api/index'
+console.log(sayHello('nate'))

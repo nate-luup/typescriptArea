@@ -24,6 +24,7 @@
     "cross-env": "^7.0.2",
     "html-webpack-plugin": "^4.5.2",
     "ts-loader": "^7.0.5",
+    "ts-node": "^10.8.1",
     "tslint": "^6.1.2",
     "typescript": "^3.9.5",
     "webpack": "^4.43.0",
